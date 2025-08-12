@@ -4,7 +4,7 @@
 
 ## 📌 Executive Summary
 A **production-grade, full-stack SaaS security platform prototype** designed to **detect suspicious file activity in real-time**.  
-Inspired by **Obsidian Security’s anomaly detection models**, it combines **scalable event streaming, secure APIs, and cloud-native architecture** in a Dockerized microservices stack.
+It combines **scalable event streaming, secure APIs, and cloud-native architecture** in a Dockerized microservices stack.
 
 This project demonstrates **end-to-end ownership** — from system architecture design → backend engineering → real-time frontend → DevOps deployment.
 
