@@ -124,4 +124,4 @@ if download_count > 10 or total_bytes > 50 * 1024 * 1024:
 
 ## 👤 Author
 **Aryan Lodha**  
-[LinkedIn](https://www.linkedin.com/in/aryan-lodha-31b6361b8/) | [GitHub](https://github.com/ary0912) | [Portfolio](https://aryan0912portfolio.framer.website) | [Demo Video](https://youtu.be/ql-e-m7gSyI)
+[LinkedIn](https://www.linkedin.com/in/aryan-lodha-31b6361b8/) | [GitHub](https://github.com/ary0912) | [Portfolio](https://aryanlodha.netlify.app/) | [Demo Video](https://youtu.be/ql-e-m7gSyI)
